@@ -1,1 +1,1 @@
-![Visitor Count](https://komarev.com/ghpvc/?username=yagnikvora&color=blue)
+![Visitor Count](https://komarev.com/ghpvc/?username=yagnikvora&color=yellow)
